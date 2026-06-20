@@ -99,7 +99,7 @@ a.aprender-mas:hover{
 /*****************************************************************
 /*------------Acceso-rapido------------*/
 .acceso-rapido{
-    background: #21bc4e;
+    background: #973C08;
     overflow: hidden;
     border-bottom: 3px solid #fff;
 }
@@ -141,7 +141,7 @@ a.aprender-mas:hover{
 }
 .articulos { /** 1 **/
     /*float: left;  /*elim 3 */
-    background: beige;
+    background: #75CC33;
     width: 65%; /*elimi  3*/
   display: table-cell;  /*3*/
   padding-right: 30px; /* 4*/
@@ -212,7 +212,7 @@ a.aprender-mas:hover{
 /************** suscripcion */
 .suscripcion{  /**1***/
     overflow: hidden;
-    border: 1px solid red;  /**2 *** elim**/
+    border: 1px solid blue;  /**2 *** elim**/
     background: #eeeeee;   /***2***/
     margin-top: 20PX;  /*** 2  B  ****/
 }
@@ -244,7 +244,7 @@ a.aprender-mas:hover{
 }
 /***********pie de pagina**************/
 .piedepagina{   /**1 **/
-    background: #444444;
+    background: #9810FA;
     padding: 20px 0; /*** 7  c  */
 }
 .piedepagina .contenedor{   /**2  **/
@@ -252,12 +252,12 @@ a.aprender-mas:hover{
 }
 .piedepagina small{  /***3  ***/
     display: table-cell;
-    background: red;  /*  elim  7 a **/
+    background: #02A3CF;  /*  elim  7 a **/
     color: #fff;  /** 4 **/
 }
 .piedepagina nav{ /**** 4  ***/
     display: table-cell;
-    background: blue;  /*** elim 7 b ***/
+    background: #FF8904;  /*** elim 7 b ***/
     text-align: right; /***6  **/
 }
 .piedepagina nav ul{ /**** 5 ***/
@@ -267,7 +267,7 @@ a.aprender-mas:hover{
 }
 .piedepagina nav ul li{ /**** 6 ***/
     display: inline-block;
-    padding-left: 10px;  /** 7  d ****/
+    padding-left: 50px;  /** 7  d ****/
 }
 .piedepagina nav ul li a{ /**** 7 ***/
     color: #fff;
